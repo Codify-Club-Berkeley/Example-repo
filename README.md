@@ -3,6 +3,7 @@ This is intended to get a quick wrap of how things work.
 
 ## 1. Create a branch. 
 On the github page, click on the branches button. Make a branch with your name by writing it in the search bar and pressing enter.
+
 ![image](imgs/branches.png)
 
 ## 2. Set up github
