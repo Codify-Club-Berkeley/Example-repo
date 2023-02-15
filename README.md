@@ -13,7 +13,7 @@ To switch to the branch you've just created, follow these instructions:
 https://stackoverflow.com/questions/1783405/how-do-i-check-out-a-remote-git-branch
 
 ## 3. Follow the tutorial to make a basic app.
-If you're in **UI** or **API**, this is https://reactjs.org/tutorial/tutorial.html
+If you're in **UI** or **API**, this is https://reactjs.org/tutorial/tutorial.html and https://www.toptal.com/react-native/cold-dive-into-react-native-a-beginners-tutorial (The first is an introduction to react, the second a look into react native).
 
 If you're working on the keyboard, follow https://developer.apple.com/tutorials/swiftui/creating-and-combining-views
 
